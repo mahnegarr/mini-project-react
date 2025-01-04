@@ -1,4 +1,4 @@
-.header{
+.header {
     display: flex;
     align-items: center;
     justify-content: space-between;
@@ -8,16 +8,15 @@
     border-radius: 10px;
 }
 
-.header span{
+.header span {
     text-decoration: none;
     color: #6552f4;
     font-weight: 600;
     font-size: 1.1rem;
     font-size: 1.6rem;
-
 }
 
-.footer{
+.footer {
     text-align: center;
     background-color: #303030;
     padding: 20px;
